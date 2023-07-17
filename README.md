@@ -1,3 +1,4 @@
 # ImgQuaMin
 Image quality reducter
-'''EXAMPLE image for performance testing'''
+```python3 use_vol2.py ```
+##Image for testing performance
